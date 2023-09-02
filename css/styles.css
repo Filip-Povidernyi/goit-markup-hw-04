@@ -368,14 +368,6 @@ img {
     gap: 24px;
 }
 
-.futures-item {
-    display: flex;
-    width: 264px;
-    flex-direction: column;
-    align-items: flex-start;
-    gap: 8px;
-}
-
 .futures-icons {
     display: flex;
     align-items: center;
